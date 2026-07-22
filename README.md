@@ -132,10 +132,19 @@ git clone https://github.com/yourusername/Ola-Sales-Dashboard.git
 
 ## 📸 Dashboard Preview
 
-<img width="1012" height="572" alt="Screenshot 2026-07-22 220651" src="https://github.com/user-attachments/assets/b7b6cdfc-da10-45aa-9520-f7e0968871e4" /> 
+Overall
+<img width="1012" height="572" alt="Screenshot 2026-07-22 220651" src="https://github.com/user-attachments/assets/b7b6cdfc-da10-45aa-9520-f7e0968871e4" />
+
+Vehicle Type
 <img width="1021" height="565" alt="Screenshot 2026-07-22 220631" src="https://github.com/user-attachments/assets/af1568c7-73df-4f10-a6ff-c1cc40c4099e" />
+
+Revenue
 <img width="1017" height="567" alt="Screenshot 2026-07-22 220613" src="https://github.com/user-attachments/assets/5e044a3e-62cc-4596-ac4f-d98f0bbe55d3" />
+
+Cancellation
 <img width="1012" height="576" alt="Screenshot 2026-07-22 220556" src="https://github.com/user-attachments/assets/011f44b3-9e6e-4ac9-88d9-4baff9854256" />
+
+Ratings
 <img width="1027" height="575" alt="Screenshot 2026-07-22 220511" src="https://github.com/user-attachments/assets/a329f425-154f-43a8-b4a4-3c7bbfaeaf83" />
 
 
